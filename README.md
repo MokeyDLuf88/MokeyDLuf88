@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/status-active-yellow)
+
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+ABxLegends;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
 
 
